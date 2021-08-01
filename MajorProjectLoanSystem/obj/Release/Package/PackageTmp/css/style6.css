@@ -1,0 +1,17 @@
+﻿.containered{
+    background-color:lightskyblue;
+    padding: 50px;
+}
+
+.btns {
+    cursor: pointer;
+    background-color: #008CBA;
+    color: #fff;
+    border: 2px solid #008CBA;
+    border-radius: 25px;
+    font-size: larger;
+}
+
+.containered h2 {
+    text-align: center;
+}
